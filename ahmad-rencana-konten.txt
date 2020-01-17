@@ -1,2 +1,4 @@
 Rencana konten
 -belajar python
+  * oop
+  * framework python
